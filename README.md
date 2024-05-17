@@ -48,4 +48,7 @@ export TURTLEBOT3_MODEL=waffle
 
 source install/setup.bash
 ros2 run enpm673_final_proj enpm673_final_proj_main.py
+                or
+cd src/enpm_final_project/enpm673_final_proj/srcipts/enpm673_final_proj_main.py
+python3 
 ```
