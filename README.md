@@ -20,7 +20,7 @@
 mkdir -p ros_perception_ws/src
 cd ~/ros_perception_ws/src
 
-git clone https://github.com/ChandhanSaai/ROS_2_TurtleBot_perception_project.git
+git clone [https://github.com/ChandhanSaai/ROS_2_TurtleBot_perception_project.git](https://github.com/SYED-ABRARUDDIN/enpm673_final_project)
 
 cd ~/ros_perception_ws
 
